@@ -13,5 +13,3 @@
 🎓 I’m a Software Engineer and like to make systems oriented projects. </br>
 👨‍💻  I am passionate about Web Development, Algorithms and Data structures & I enjoy learning new things. </br>
 
-![Ashwani's github stats](https://github-readme-stats.vercel.app/api?username=ashwan1kumar&show_icons=true&hide_border=true)
-<br />
